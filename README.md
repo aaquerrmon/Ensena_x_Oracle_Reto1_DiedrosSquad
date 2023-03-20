@@ -6,5 +6,5 @@ Para este reto hemos tenido que hacer un modelo de clasificación de imágenes. 
 En el repositorio se encuentran los siguientes archivos:
 - Utilities.py: Es un script de python donde tenemos guardadas las funciones que utlizaremos durante el reto, de manera de que quede todo mas claro y ordenado.
 - Tratamiento de los Datos.ipynb: En este jupyter notebook tenemos el tratamiento que hicimos a los datos previos a la clasificación.
-- Clasificación.ipynb: En este jupyter notebook tenemos la propia clasificación de nuestras imágenes, así como el preprocesado previo de las mismas.
+- main.ipynb: En este jupyter notebook tenemos la propia clasificación de nuestras imágenes, así como el preprocesado previo de las mismas. Aquí utilizamos las funciones de utilities.py
 - entrega.json: Archivo JSON con las predicciones de los datos de test.
