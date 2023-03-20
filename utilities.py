@@ -137,5 +137,5 @@ def generate_predictionJSON(model):
 
     json_object = json.dumps(json_entrega)
 
-    with open("entrega.json", "w") as outfile:
+    with open("predictions.json", "w") as outfile:
         outfile.write(json_object)
