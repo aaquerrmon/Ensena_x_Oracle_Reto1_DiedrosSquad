@@ -8,3 +8,4 @@ En el repositorio se encuentran los siguientes archivos:
 - Tratamiento de los Datos.ipynb: En este jupyter notebook tenemos el tratamiento que hicimos a los datos previos a la clasificación.
 - main.ipynb: En este jupyter notebook tenemos la propia clasificación de nuestras imágenes, así como el preprocesado previo de las mismas. Aquí utilizamos las funciones de utilities.py
 - entrega.json: Archivo JSON con las predicciones de los datos de test.
+- best_model_080test.zip: Carpeta con el modelo entrenado
